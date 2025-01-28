@@ -1,0 +1,27 @@
+/* Add these new styles */
+.character-img {
+    max-width: 200px;
+    display: block;
+    margin: 20px auto;
+  }
+  
+  #main-menu h1 {
+    color: #2c3e50;
+    margin: 20px 0;
+  }
+  
+  #high-score-input h2 {
+    color: #e74c3c;
+    margin: 20px 0;
+  }
+  
+  /* Keep previous styles and add: */
+  #high-score-input {
+    text-align: center;
+  }
+  
+  #high-score-input input {
+    padding: 8px;
+    margin: 10px;
+    font-size: 16px;
+  }
